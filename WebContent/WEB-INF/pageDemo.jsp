@@ -31,14 +31,14 @@
 	
 	<div class="mainContainer">
 		<div class="accueilGo">
-			<a class="entree" href="#">Entrer</a>
+			<a class="entree" href="<%=request.getContextPath()%>/Accueil">Entrer</a>
 		</div>
 	</div>
 	
 	<!-- FOOTER -->
 	<footer class="row bg-dark footer-demodule fixed-bottom py-1">
 	<div class="col-lg-4 offset-lg-4 text-center text-white">
-		<p> AuctionWeb ©ENI-2020 Amilcar | Lewis | Victor</p>
+		<p> AuctionWebTeam ©ENI-2020 Amilcar | Lewis | Victor</p>
 	</div>
 	</footer>
 
