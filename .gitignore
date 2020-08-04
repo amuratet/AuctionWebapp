@@ -1,16 +1,16 @@
-#WebContent/WEB-INF/lib/*
-#.classpath
+WebContent/WEB-INF/lib/*
+.classpath
 WebContent/META-INF/context.xml
 ##############################
 ## Java
 ##############################
-#.mtj.tmp/
-#*.class
-#*.jar
-#*.war
-#*.ear
-#*.nar
-#hs_err_pid*
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
 
  
 
@@ -18,16 +18,16 @@ WebContent/META-INF/context.xml
 ##############################
 ## Eclipse
 ##############################
-#.settings/
-#bin/
-#tmp/
-#.metadata
-#.classpath
-#.project
-#*.tmp
-#*.bak
-#*.swp
-#*~.nib
-#local.properties
-#.loadpath
-#.factorypath
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
