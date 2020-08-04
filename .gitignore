@@ -1,6 +1,6 @@
 WebContent/WEB-INF/lib/*
 .classpath
-WebContent/META-INF/context.xml
+/WebContent/META-INF/context.xml
 ##############################
 ## Java
 ##############################
