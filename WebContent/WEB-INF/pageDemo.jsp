@@ -30,6 +30,16 @@
 	</header>
 	
 	<div class="mainContainer">
+		
+		<div class="pictosTeam">
+			<img src="<%= request.getContextPath() %>/pictos/amilcar.jpg" alt="Alk" width="8%" style="display:inline-block;" />
+			<img src="<%= request.getContextPath() %>/pictos/lewis.jpg" alt="Alk" width="8%" style="display:inline-block;" />
+			<img src="<%= request.getContextPath() %>/pictos/victor.jpg" alt="Alk" width="8%" style="display:inline-block;" />
+		</div>
+		<div class="pictosTeam">
+			<img src="<%= request.getContextPath() %>/pictos/logoAuctionWeb.png" alt="Logo team" width="15%;" />
+		</div>
+	
 		<div class="accueilGo">
 			<a class="entree" href="<%=request.getContextPath()%>/Accueil">Entrer</a>
 		</div>
@@ -38,7 +48,7 @@
 	<!-- FOOTER -->
 	<footer class="row bg-dark footer-demodule fixed-bottom py-1">
 	<div class="col-lg-4 offset-lg-4 text-center text-white">
-		<p> AuctionWebTeam ©ENI-2020 Amilcar | Lewis | Victor</p>
+		<p>Team AuctionWeb ©ENI-2020 Alk | Guyzmo | Cluster</p>
 	</div>
 	</footer>
 
